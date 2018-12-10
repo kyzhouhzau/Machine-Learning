@@ -1,0 +1,8 @@
+Variation 0
+Regulation 1
+Molecular_Physiological_Activity 2
+Negative_Regulation 3
+Pathway 4
+Positive_Regulation 5
+Cell_Physiological_Activity 6
+Interaction 7
