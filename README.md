@@ -34,4 +34,3 @@ Aata come from AGAC courpus:
 
 Result:
 
-![](./图片1.png)
