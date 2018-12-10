@@ -33,4 +33,4 @@ Aata come from AGAC courpus:
 
 
 Result:
-
+[](1-1.png)
